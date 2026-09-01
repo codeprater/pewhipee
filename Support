@@ -1,0 +1,66 @@
+# Pewhipee support
+
+Pewhipee is a memory-game app that builds puzzles from photos on this iPhone. There is no account and no server.
+
+**Need help?** Email [prater10@icloud.com](mailto:prater10@icloud.com)  
+Please include your iPhone model and iOS version.
+
+## Photos access
+
+Today and Games need access to Photos so Pewhipee can pick a picture.
+
+1. Open **Settings → Pewhipee → Photos**.
+2. Choose **Limited Access** or **Full Access**.
+3. If you chose Limited Access, tap **Edit Selected Photos** and pick the albums that are fair game.
+
+Originals in Photos are never changed. Deleting Pewhipee data only removes copies inside the app.
+
+## Microphone
+
+Talking Memories can record a short story. That is optional.
+
+**Settings → Pewhipee → Microphone**
+
+Recordings stay on this phone.
+
+## Notifications
+
+Daily reminders are optional and scheduled on this device.
+
+Turn them on in **Pewhipee → Book → Settings**.
+
+## A game won’t open
+
+- Allow Photos access, or add a few pictures in Memories.
+- Map Memory only works with photos that already have a location.
+- Gone and Rewind unlock after a few mixes in the Book.
+- If a picture can’t make a fair puzzle, choose **Try another picture**.
+
+## Sharing a challenge
+
+Send challenge uses the system share sheet (Messages, Mail, AirDrop). The puzzle travels inside the picture. Save the original file, not a screenshot — a screenshot loses the puzzle.
+
+The other person opens Pewhipee, picks the picture they received, and plays your round.
+
+## Pass and play
+
+Two players, one phone. It is not an online match. Scores stay on that device.
+
+## Delete my data
+
+In the app: **Book → Settings → Delete all Pewhipee data**.
+
+That removes Pewhipee’s copies, stories, and play history. Your originals in Photos are untouched. Uninstalling the app also removes everything Pewhipee stored on the phone.
+
+## Something’s broken
+
+Email [prater10@icloud.com](mailto:prater10@icloud.com) with:
+
+- What you tapped
+- What you expected
+- What happened instead
+- iPhone model and iOS version
+
+---
+
+[Home](index.md) · [Privacy](privacy.md)
